@@ -1,5 +1,5 @@
 {
-    "name": "XRay",
+    "name": "Ray",
     "description": "Deploy ray",
     "keywords": ["Ray"],
     "env": {
